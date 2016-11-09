@@ -17,7 +17,7 @@ namespace CSharpLearnTest._RunProgram._06_Program_委托与事件 {
 			Book[] bookArray = new Book[2];
 
 			bookArray[0] = new Book(124, "C# 3.0揭秘");
-			bookArray[1] = new Book(45, ".Net之美");
+			bookArray[1] = new Book(47, ".Net之美");
 
 			Console.WriteLine("Before Sort");
 			foreach (var item in bookArray) {
