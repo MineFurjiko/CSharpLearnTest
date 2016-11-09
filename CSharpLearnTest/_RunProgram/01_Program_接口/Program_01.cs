@@ -23,7 +23,7 @@ namespace CSharpLearnTest._RunProgram._01_Program_接口
 
             icbcAccount.PayIn(500);
             icbcAccount.Withdraw(600);
-            icbcAccount.Withdraw(110);
+            icbcAccount.Withdraw(100);
             icbcAccount.LookupTest();
             Console.WriteLine(icbcAccount.ToString());
 
